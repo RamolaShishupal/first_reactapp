@@ -28,11 +28,12 @@ export default function Header() {
 
      </div>
 
-     <div className='header__option'></div>
+     <div className='header__option'>
       <span className='header__optionLine1'>Your</span>
      <span className='header__optionLine2'>Prime</span>
      </div>
    
+    </div>
     </div>
  
 

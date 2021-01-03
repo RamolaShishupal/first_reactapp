@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.css";
 import SearchIcon from "@material-ui/icons/Search";
-
+import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket';
 export default function Header() {
   return (
     <div className='header'>
@@ -24,13 +24,18 @@ export default function Header() {
 
      <div className='header__option'>
       <span className='header__optionLine1'>Returns</span>
-     <span className='header__optionLine2'>Order</span>
+     <span className='header__optionLine2'>& Order</span>
 
      </div>
 
      <div className='header__option'>
       <span className='header__optionLine1'>Your</span>
      <span className='header__optionLine2'>Prime</span>
+
+     </div>
+     <div className='header__basket'>
+     <ShoppingBasketIcon />
+     <span className='header__optionLine1 header__basketcount'>0</span>
      </div>
    
     </div>

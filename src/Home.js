@@ -7,7 +7,7 @@ export default function Home() {
     <div className='home'>
     <div className='home__container'>
     <img 
-    className='home__img' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzE4jjXjORx1z9rzGoJiW9pRmKlW5xeuVCsQ&usqp=CAU' alt='error' />
+    className='home__img' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4V9Gl4KPBuZMkpje_qs32Y2qdpl5UPK3AQ&usqp=CAU' alt='error' />
     </div>
    
 

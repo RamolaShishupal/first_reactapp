@@ -8,7 +8,7 @@ export default function Home() {
     <div className='home'>
     <div className='home__container'>
     <img 
-    className='home__imgage' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4V9Gl4KPBuZMkpje_qs32Y2qdpl5UPK3AQ&usqp=CAU' alt='error' />
+    className='home__image' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCD9F7QG2Ad7r2k6Spk7M0ndm4UKfhqSkCAw&usqp=CAU'  />
     <div className='home__row'>
     <Product/>
     <Product/>

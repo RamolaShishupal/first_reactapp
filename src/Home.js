@@ -8,7 +8,7 @@ export default function Home() {
     <div className='home'>
     <div className='home__container'>
     <img 
-    className='home__image' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCD9F7QG2Ad7r2k6Spk7M0ndm4UKfhqSkCAw&usqp=CAU'  />
+    className='home__image' src='https://images-na.ssl-images-amazon.com/images/G/01/AmazonMusic/2020/ACQ/Gateway/HolidayNonPromo/DV5/US-EN_100120_HOLNonPromo_ACQ_GW_Hero_D_3000x1200_CV4_2._CB415751492_.jpg'  />
     <div className='home__row'>
     <Product/>
     <Product/>

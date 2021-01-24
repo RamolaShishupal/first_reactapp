@@ -22,7 +22,7 @@ export default function Product() {
     </div>
     </div>
      
-   <img class="product_image" src="" />
+   <img class="product_image" src="https://miro.medium.com/max/8064/1*tQszPBlBdi522xW1DnhwgQ.jpeg" />
     </div>
  
 

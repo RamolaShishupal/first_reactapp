@@ -17,9 +17,12 @@ export default function Product() {
     <p>⭐⭐⭐⭐⭐</p>
 
     </div>
+    <div>
+
+    </div>
     </div>
      
-   
+   <img class="product_image" src="" />
     </div>
  
 
